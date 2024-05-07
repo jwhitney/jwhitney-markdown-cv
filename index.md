@@ -16,7 +16,13 @@ Surname, G.N., and Person, Another. (2023). "Research paper about an interesting
 
 ## 🛠️ Projects
 
-You can link to projects on Github & other places online. 
+You can link to projects on Github & other places online.
+
+**Code project hosted on Github** @ [Repository Name](https://github.com/cu-library/cuirator) _(Jan 2021 - ongoing)_ <br>
+Software project that builds on this course.
+  - Key features
+  - Technical requirements
+  - Please see the project [README](https://github.com/cu-library/etddepositor/blob/main/READMEmd) for more information
 
 **Research Project at University Research Lab** @ [Research Lab](https://example.com/) _(Jul 2019 - Dec 2021)_ <br>
 Here's a one-line summary of the project.
