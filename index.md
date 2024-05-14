@@ -15,7 +15,7 @@ Surname, G.N., and Person, Another. (2023). "Research paper about an interesting
 
 ## 🛠️ Projects
 
-You can link to projects on Github & other places online.
+_Here's a note about projects listed below._
 
 **Code project hosted on Github** @ [Repository Name](https://github.com/cu-library/cuirator) _(Jan 2021 - ongoing)_ <br>
 Software project that builds on this course.
@@ -38,8 +38,27 @@ Overview of position and key responsbilities
   - Add highlights in bullet points
   - Notable achievement 
   - Another highlight
-  - **_ Technologies used:_** Python, HTML, CSS, Git & Github
+  - _Technologies used:_ Python, HTML, CSS, Git & Github
 <br><br>
+
+**Another Positiioin Title** @ [Large Company, Inc.](https://example.com/) _(May 2008 - Dec 2021)_ <br>
+Overview of position and key responsbilities
+  - Add highlights in bullet points
+  - Notable achievement 
+  - Another highlight
+  - _Technologies used:_ Solr, MongoDB, OpenRefine
+<br><br>
+
+## 🎓 Education
+
+**Master of Library and Information Science**<br>
+[University of Western Ontario](https://uwo.ca/) - London ON, Canada _(Fall 2016)_
+
+**Bachelor of Computuer Science** <br>
+[University of Waterloo](https://uwaterloo.ca/) - Waterloo ON, Canada _(2011 - 2015)_
+
+**Bachelor of Arts** in English Literature<br>
+[Dalhouse University](https://dal.ca/) - Halifax NS, Canada _(2001 - 2004)_
 
 *This CV is based on a [Markdown CV](https://github.com/carolstran/cv) created by [@carolstran](https://github.com/carolstran)*
 
