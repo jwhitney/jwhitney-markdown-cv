@@ -17,10 +17,11 @@ Surname, G.N., and Person, Another. (2023). "Research paper about an interesting
 
 _Here's a note about projects listed below._
 
-**Code project hosted on Github** @ [Repository Name](https://github.com/cu-library/cuirator) _(Jan 2021 - ongoing)_ <br>
+**Code project hosted on Github** @ [DH Workshop Project](https://github.com/jwhitney/dh-workshop) _(Jan 2023 - ongoing)_ <br>
 Software project that builds on this course.
   - Key features
   - Technical requirements
+  - View the project online at [https://jwhitney.github.io/dh-workshohp](https://jwhitney.github.io/dh-workshop/)
   - Please see the project [README](https://github.com/cu-library/etddepositor/blob/main/READMEmd) for more information
 
 **Research Project at University Research Lab** @ [Research Lab](https://example.com/) _(Jul 2019 - Dec 2021)_ <br>
